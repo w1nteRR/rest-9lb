@@ -1,0 +1,6 @@
+Price,Employees,Duration,Is Have Musician,Performance type,Conductor,Costumer,Violinist
+20.0,30,40,true,ORCHESTRA,3,5,10
+Price,Employees,Duration,Is Have Musician,Performance type,Director,Acrobats,Participants,Lions
+14.0,36,90,true,CIRCUSSHOW,Ben,american,22,3
+Price,Employees,Duration,Is Have Musician,Performance type,Guitarist,Pianist,Drummer
+50.0,8,70,true,ROCKCONCERT,5,4,8

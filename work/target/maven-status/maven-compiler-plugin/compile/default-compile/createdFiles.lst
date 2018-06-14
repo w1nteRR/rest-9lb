@@ -1,0 +1,12 @@
+com\company\persistence\dao\IDao.class
+com\company\PerformanceType.class
+com\company\CircusShow.class
+com\company\rest\service\PerformanceService.class
+com\company\Orchestra.class
+com\company\ConcertHall.class
+com\company\persistence\dao\PerformanceDao.class
+com\company\RockConcert.class
+com\company\rest\config\JaxRsConfig.class
+com\company\persistence\dao\PerformanceDaoImplementation.class
+com\company\persistence\dao\AbstractDao.class
+com\company\Performance.class
